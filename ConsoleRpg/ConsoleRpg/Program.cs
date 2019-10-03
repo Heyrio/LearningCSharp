@@ -25,10 +25,12 @@ namespace ConsoleRpg {
                 Console.WriteLine("but you know your name is " + currentPlayer.name);
 
             }
-
+            //Hey this is a comment in C#
             Console.ReadKey();
             Console.Clear();
             Console.WriteLine("You wander around the darkness untill you find a door handle");
+            Console.WriteLine("You  open the door and find a big fucking monster standing in front of you!");
+            
         }
     }
 }
