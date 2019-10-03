@@ -1,0 +1,11 @@
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\bin\Debug\netcoreapp3.0\ConsoleRpg.exe
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\bin\Debug\netcoreapp3.0\ConsoleRpg.deps.json
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\bin\Debug\netcoreapp3.0\ConsoleRpg.runtimeconfig.json
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\bin\Debug\netcoreapp3.0\ConsoleRpg.runtimeconfig.dev.json
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\bin\Debug\netcoreapp3.0\ConsoleRpg.dll
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\bin\Debug\netcoreapp3.0\ConsoleRpg.pdb
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\obj\Debug\netcoreapp3.0\ConsoleRpg.csprojAssemblyReference.cache
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\obj\Debug\netcoreapp3.0\ConsoleRpg.AssemblyInfoInputs.cache
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\obj\Debug\netcoreapp3.0\ConsoleRpg.AssemblyInfo.cs
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\obj\Debug\netcoreapp3.0\ConsoleRpg.dll
+C:\Users\Hamzah\source\repos\ConsoleRpg\ConsoleRpg\obj\Debug\netcoreapp3.0\ConsoleRpg.pdb
